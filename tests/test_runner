@@ -1,0 +1,7 @@
+#!/bin/sh
+
+# Run unit tests
+make check
+
+# Run integration tests
+make integrate

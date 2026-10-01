@@ -1,0 +1,5 @@
+#!/bin/sh
+
+# Placeholder for main entry point
+# This should be replaced with actual main function logic
+exec ./src/raft-state-machine
